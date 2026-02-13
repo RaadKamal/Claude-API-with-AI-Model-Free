@@ -7,8 +7,8 @@ Hi,
 
 
 
-2. Now, to the CS students out there, if you would like to use Claude entirely for free, with no API Billing and CLI Billing. 
-   I want you to know that Claude is known for its programming performance, and along with the private mode that will not be exposed to the public network, bear with me.
+2. Now, to the CS students out there, if you would like to use Claude entirely for free, with no API Billing and CLI Billing. (I want you to know that Claude is known for its programming performance)
+   along with the private mode that will not be exposed to the public network,then bear with me.
 
 
 
